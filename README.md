@@ -1,3 +1,3 @@
-# desafio-go-native-1
+# Primeiro desafio GoNative
 
-Primeiro desafio do curso Go Native da rocketseat.
+Primeiro desafio do curso GoNative da Rocketseat.

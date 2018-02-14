@@ -5,7 +5,11 @@ import {
   Text,
   ScrollView,
 } from 'react-native';
+
 import Post from './components/Post';
+
+import 'config/ReactotronConfig';
+import 'config/DevToolsConfig';
 
 const styles = StyleSheet.create({
   container: {
